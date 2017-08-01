@@ -11,3 +11,14 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 ------------ Example -------------------
+### Day 1: August 1, 2017 
+
+**Today's Progress**: Wrote a script that extracts the content of a webpage in HTML format.
+
+**Thoughts:** This was the hardest day of coding by far, ironically. I just couldn't find the relevant gem to extract data from a webpage - it's taken me like 4 hours! I eventually came across Nokogiri gem which does the job.
+
+**Learnings:**
+- use The Ruby Toolbox for finding relevant gems (they are ranked!)
+- there isn't always a simple, easy-to-understand gem to get what you want. Sometimes you'll just need to copy & paste.
+
+**Link to work:** [Calculator App](http://www.example.com)
