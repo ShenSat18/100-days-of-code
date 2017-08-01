@@ -21,4 +21,4 @@
 - use The Ruby Toolbox for finding relevant gems (they are ranked!)
 - there isn't always a simple, easy-to-understand gem to get what you want. Sometimes you'll just need to copy & paste.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [extract webpage script](https://github.com/shen-sat/100-days-of-code/blob/master/scripts/extract_webpage)
