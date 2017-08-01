@@ -15,10 +15,10 @@
 
 **Today's Progress**: Wrote a script that extracts the content of a webpage in HTML format.
 
-**Thoughts:** This was the hardest day of coding by far, ironically. I just couldn't find the relevant gem to extract data from a webpage - it's taken me like 4 hours! I eventually came across Nokogiri gem which does the job.
+**Thoughts:** This was the hardest day of coding by far, ironically. I just couldn't find the relevant gem to extract data from a webpage - it's taken me like 4 hours! I eventually came across Nokogiri gem which does the job. Also used github for the first time. Not sure how I'm going to store scripts and projects here as I progress, but I'm sure it'll become clear!
 
 **Learnings:**
-- use The Ruby Toolbox for finding relevant gems (they are ranked!)
+- use The [Ruby Toolbox](https://www.ruby-toolbox.com/) for finding relevant gems (they are ranked!)
 - there isn't always a simple, easy-to-understand gem to get what you want. Sometimes you'll just need to copy & paste.
 
 **Link to work:** [extract webpage script](https://github.com/shen-sat/100-days-of-code/blob/master/scripts/extract_webpage)
