@@ -1,0 +1,7 @@
+#This script will download a webpage from the command line
+#you need nokogiri gem installed
+
+require 'open-uri'
+require 'nokogiri'
+doc = Nokogiri::HTML(open("http://www.example.com/"))
+puts doc
