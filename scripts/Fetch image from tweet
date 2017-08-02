@@ -1,0 +1,23 @@
+require 'rubygems'
+require 'twitter'
+require 'yaml'
+
+client = Twitter::REST::Client.new do |config|
+  config.consumer_key        = "t3F5fBiVwUjsZyzxAcpDWGHF4"
+  config.consumer_secret     = "YjEpZWx5xQYZ8RD82Dbgutd4m7kytoa3H3nvcppAVOy56LmhSe"
+  config.access_token        = "2347401997-3PzoVOwfAUCr5BVQJ4VmyooGGBXSlcMxV433NDs"
+  config.access_token_secret = "kAkks0m2oWbKb2H9z874f6fMEsquH5xvdB6Tdm7CS95CQ"
+end
+
+tweets = client.user_timeline("shen_sat", count: 1)
+
+tweet = tweets[0]
+
+#puts tweet.to_yaml
+puts "---------------------------------------------------------------" 
+puts tweet.media?
+puts tweet.media
+
+tweet_photo = tweet.media[0]
+puts tweet_photo.attrs
+puts tweet_photo.attrs[:media_url]
