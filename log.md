@@ -20,6 +20,6 @@
 
 **Learnings:**
 - use The [Ruby Toolbox](https://www.ruby-toolbox.com/) for finding relevant gems (they are ranked!)
-- there isn't always a simple, easy-to-understand gem to get what you want. Sometimes you'll just need to copy & paste (eg to get the Nokogiri gem to work (and download a webpage's html) I had to use [this solution](https://gist.github.com/fnichol/867550)
+- there isn't always a simple, easy-to-understand gem to get what you want. Sometimes you'll just need to copy & paste (eg to get the Nokogiri gem to work (and download a webpage's html) I had to use [this solution](https://gist.github.com/fnichol/867550))
 
 **Link to work:** [extract webpage script](https://github.com/shen-sat/100-days-of-code/blob/master/scripts/extract_webpage)
