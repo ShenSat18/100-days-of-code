@@ -45,3 +45,15 @@
 **Learnings:**
 - I'm decent at working things out, even though it takes a bit of time, I'll get to a solution eventually. 
 - I may need to set aside a time limit because I'm still spending too much time everey time I hit a 'bump' - from now on, if I can't work something out within a couple of hours I will leave it. I can save the problem as a script and bring it up at a future meetup, possibly.
+
+-------------------------------
+### Day 4: August 4, 2017 
+
+**Today's Progress**: Definitively worked out how to access multiple pics' urls in a tweet. It's all about arrays!
+
+**Thoughts:** This didn't take much time, compared to yesterday. I want to show people what I've built now, so Ive started looking at places to 'host' the app I end up buidling - I had no idea how to do this andresearching tis has actually taken up the most time today. I have a couple of solutions now that I'll try tomorrow (Google Cloud and Heroku). Once, I've tried them, I'll go back to writing code that searches for pixelart tweets and returns images with a specified fave count.
+
+**Learnings:**
+- Media in tweets are stored in arrays. Once you access the relevant image in the array, then you can access it's url, id etc
+- I need to 'deploy' my app to a web server so that other people can use it
+
