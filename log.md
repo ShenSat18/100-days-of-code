@@ -24,7 +24,7 @@
 
 **Link to work:** [extract webpage script](https://github.com/shen-sat/100-days-of-code/blob/master/scripts/extract_webpage)
 
------------- Example -------------------
+-------------------------------
 ### Day 2: August 2, 2017 
 
 **Today's Progress**: Wrote a script that sends tweets.
@@ -34,3 +34,14 @@
 **Learnings:**
 - Using gems doesn't hand me what I want on a platter. I still need to understand the commands in order to manipulate it and get what i want
 - without a specific task (eg retrieving a specific tweet), I tend to be a bit aimless in my learning.
+
+-------------------------------
+### Day 3: August 3, 2017 
+
+**Today's Progress**: Systematically worked out how to access data within tweets.
+
+**Thoughts:** I kind of stumbled across the answer yesterday, but today I spent time working it out. It seemed like data was stored in hashes within hashes. But the the section where picture data is stored seems to be an array, which I didn't understand for a while. However, layter in the day I realised that this may be because you can have more than one media (eg picture, gif etc) within a tweet - therefore you need to build an array to store data on each media. I'm going to test this theory out tomorrow!
+
+**Learnings:**
+- I'm decent at working things out, even though it takes a bit of time, I'll get to a solution eventually. 
+- I may need to set aside a time limit because I'm still spending too much time everey time I hit a 'bump' - from now on, if I can't work something out within a couple of hours I will leave it. I can save the problem as a script and bring it up at a future meetup, possibly.
