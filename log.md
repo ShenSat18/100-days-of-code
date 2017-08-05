@@ -57,3 +57,19 @@
 - Media in tweets are stored in arrays. Once you access the relevant image in the array, then you can access it's url, id etc
 - I need to 'deploy' my app to a web server so that other people can use it
 
+-------------------------------
+### Day 5: August 5, 2017 
+
+**Today's Progress**: Played around with the search function in Twitter's API
+
+**Thoughts:** Search returns arrays, and I know how to use these now ;) I haven't made great progress today but that's probably because I have been coffee-shop hopping. I also reached out to some #100DaysOfCode peeps for help in learning to deploy my app - they both responded which is awesome.
+
+**Learnings:**
+- Twitter API search returns an array
+- Reaching out to#100DaysOfCode people is awesome
+
+**Tomorrow:**
+- write code that can take in two search terms (hastag and a username - when you tried to look for Kratos' last tweet, it didn't work)
+- write code that can return top #pixelart tweets according to fave count
+- look into the responses you got for deployment
+
