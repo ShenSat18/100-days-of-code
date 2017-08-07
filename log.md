@@ -87,3 +87,16 @@
 - write code that uses the above normal twitter search funstions to retrieve #pixelart tweets from @pixel_dailies timeline
 - start reading about Git
 
+-------------------------------
+### Day 7: August 7, 2017 
+
+**Today's Progress**: I can now retrieve only posts from pixel_dailes that contain images. Came up against Twitter's API request limits.
+
+**Thoughts:** I'm not sure what counts as a request, but I di know that when I cast my net wide for searches, I am now coming up against limits set by twitter relating to number of requests per period of time. I need to find out why this occurs, so that I can set limits on my searches accordingly.
+
+**Learnings:**
+- searches for #pixelart in a day may exceed the Twitter API request limit and return an error
+
+**Tomorrow:**
+- learn how search requests are restricted
+
