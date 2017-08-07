@@ -73,3 +73,17 @@
 - write code that can return top #pixelart tweets according to fave count
 - look into the responses you got for deployment
 
+-------------------------------
+### Day 6: August 6, 2017 
+
+**Today's Progress**: Played nore with the search function in Twitter's API. I found out how to use the filter function
+
+**Thoughts:** Not everything has to be done with complex code! I found out that inserting things like "filter:media" can actually be typed into the normal Twitter search AND into code to retriev relevant results.
+
+**Learnings:**
+- there are a [bunch of normal Twitter search functions](https://dev.twitter.com/rest/public/search) that can be used in code
+
+**Tomorrow:**
+- write code that uses the above normal twitter search funstions to retrieve #pixelart tweets from @pixel_dailies timeline
+- start reading about Git
+
