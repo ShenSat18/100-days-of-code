@@ -100,3 +100,31 @@
 **Tomorrow:**
 - learn how search requests are restricted
 
+-------------------------------
+### Day 8: August 8, 2017 
+
+**Today's Progress**: Found code that'll let me know how many requests I have per search.
+
+**Thoughts:** As above really. Not really sure how this will affect the user though.
+
+**Learnings:**
+- new code
+
+**Tomorrow:**
+- so unfocused - gonna make a plan for the app tomorrow
+
+-------------------------------
+### Day 9: August 9, 2017 
+
+**Today's Progress**: Made a plan for the app. I can sort through #pixelart tweets for those that have media.
+
+**Thoughts:** Having a plan is better, but I still feel like I'm working a bit slow. This is probably because I'm working from home. Need to get out!
+
+**Learnings:**
+- Twitter outputs time in UTC
+- can sort by using if [statement]?
+
+**Tomorrow:**
+- I can sort by media, but what happens if a tweet has a gif? I need to rule gifs out somehow
+- properly incorporate time limits (eg tweets only from 24 before search initiated)
+
