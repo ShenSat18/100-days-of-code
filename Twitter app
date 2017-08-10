@@ -14,47 +14,37 @@ client = Twitter::REST::Client.new do |config|
   config.access_token        = ""
   config.access_token_secret = ""
  end
-
-
- 
- 
- 
- 
-yesterday_time = Time.now.utc - (60*60*24)
-search_date_limit = yesterday_time.to_date.to_s
-puts search_date_limit
-
-
- 
- 
-
 puts "----------BEFORE:----------"
 limit = Twitter::REST::Request.new(client, :get, "/1.1/application/rate_limit_status.json").perform
 puts limit[:resources][:search][:"/search/tweets"][:remaining]
 puts "---------------------------"
+ 
 yesterday_time = Time.now.utc - (60*60*24)
+search_date_limit = yesterday_time.to_date.to_s
+
 todays_pixelart_tweets = []
 
-
-
-
-
-pixel_art_tweets = client.search("#pixelart")
-puts pixel_art_tweets.count
+pixel_art_tweets = client.search("#pixelart AND filter:images AND -filter:retweets AND -filter:replies AND since:#{search_date_limit}")
+puts "Number of tweets in search: #{pixel_art_tweets.count}"
 pixel_art_tweets.each do |tweet|
 	if tweet.media? && tweet.media[0].attrs[:type] == "photo" && tweet.created_at.dup.utc > yesterday_time
 		todays_pixelart_tweets.push(tweet)
-		#puts tweet.text
-		#puts tweet.media[0].attrs[:type]
-		#puts tweet.created_at
 	end
 end
 
-puts todays_pixelart_tweets[0].media[0].media_url
+puts "Number of tweets in refined selection: #{todays_pixelart_tweets.count}"
+
+#puts "Fave count: #{todays_pixelart_tweets[0].favorite_count}"
+#puts "Tweet url: #{todays_pixelart_tweets[0].url}"
+sorted_tweets = todays_pixelart_tweets.sort_by do |tweet|
+	tweet.favorite_count
+end
+
+sorted_tweets.each {|tweet| puts tweet.favorite_count} 
 
 puts "----------AFTER-------------------"
-limit = Twitter::REST::Request.new(client, :get, "/1.1/application/rate_limit_status.json").perform
-puts limit[:resources][:search][:"/search/tweets"][:remaining]	
+after_limit = Twitter::REST::Request.new(client, :get, "/1.1/application/rate_limit_status.json").perform
+puts after_limit[:resources][:search][:"/search/tweets"][:remaining]	
 puts "---------------------------"	
 
 	
