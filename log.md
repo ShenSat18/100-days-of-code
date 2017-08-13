@@ -2,8 +2,7 @@
 # 100 Days Of Code - Log
 
 -------------------------------
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day X: August X, 2017
 
 **Today's Progress**: 
 
@@ -172,7 +171,7 @@
 - Finish Heroku tutorials
 
 -------------------------------
-### Day 13: August, 2017
+### Day 13: August 13, 2017
 
 **Today's Progress**: Read some of Hartl's Rails tutorial.
 
