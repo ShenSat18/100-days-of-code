@@ -5,11 +5,13 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
+
+**Tomorrow:**
 
 ------------ Example -------------------
 ### Day 1: August 1, 2017 
@@ -128,3 +130,43 @@
 - I can sort by media, but what happens if a tweet has a gif? I need to rule gifs out somehow
 - properly incorporate time limits (eg tweets only from 24 before search initiated)
 
+-------------------------------
+### Day 10: August 10, 2017 
+
+**Today's Progress**: Pushed my first git commit
+
+**Thoughts:** Just video tutorials today then some very brief coding. I feel very positive about using git in future for my scripts. From what I've seen and read, git is also a useful tool to learn for future jobs.
+
+**Learnings:**
+- Git is version control and a collaboration tool
+- Git can be used with github to store work
+
+**Tomorrow:**
+- Put current script to git/github
+
+-------------------------------
+### Day 11: August 11, 2017 
+
+**Today's Progress**: Script now pulls pixelart tweet in last 24hours with most likes
+
+**Thoughts:** Feel super happy with result so far. Using Twitter search operators has allowed me to limit my search calls. I've pretty much finished back end, now to move on to front end.
+
+**Learnings:**
+- I've found d out that some objects within a tweet eg the 'type' hash within a tweet, don't have methods that other objects do and have to be accessed hash by hash.
+- Twitter search operators are so much more powerful than I thought initially. Eg I can search for tweets with media rather than filter tweets with media out of an array
+
+**Tomorrow:**
+- Github and Heroku and front end
+
+-------------------------------
+### Day 12: August 12, 2017 
+
+**Today's Progress**: Uploaded my script to Github using git
+
+**Thoughts:** Slow progress today, but only because I'm on my friend's stag!
+
+**Learnings:**
+- Everytime I make a change to my local files, I should push commit and push the change. Otherwise version control can get a bit messy.
+
+**Tomorrow:**
+- Finish Heroku tutorials
