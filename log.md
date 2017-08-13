@@ -1,7 +1,7 @@
 
 # 100 Days Of Code - Log
 
------------- Example -------------------
+-------------------------------
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -170,3 +170,16 @@
 
 **Tomorrow:**
 - Finish Heroku tutorials
+
+-------------------------------
+### Day 13: August, 2017
+
+**Today's Progress**: Read some of Hartl's Rails tutorial.
+
+**Thoughts:** Started on DevTips's Rails/Heroku tutorial but it feels to complicated. Hartl's book seems a lot more beginner friendly and it aims to get user to make a simple web application first
+
+**Learnings:** 
+- Rails web apps as a default come pre-packaged with an app 'structure' as soon as you create one.
+- Bitbucket, unlike Github, allows you to create private repos for free
+
+**Tomorrow:** Go through first chapter and create and deploy my first Rails app
