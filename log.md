@@ -6,7 +6,9 @@
 
 **Today's Progress**: 
 
-**Thoughts:** 
+**Thoughts:**
+
+**Learnings:**
 
 **Link to work:**
 
@@ -182,3 +184,15 @@
 - Bitbucket, unlike Github, allows you to create private repos for free
 
 **Tomorrow:** Go through first chapter and create and deploy my first Rails app
+
+-------------------------------
+### Day 14: August 14, 2017
+
+**Today's Progress**: Started creating my first web app
+
+**Thoughts:** Slow progress today, because I didn't prioritise coding. I need to do coding first thing in morning, or first thing after gym.
+
+**Learnings:**
+- You can set the default page for the web app by defining an action in the application controller script, and then referring to that controller action in the routes script
+
+**Tomorrow:** Finish app and deploy to Heroku
