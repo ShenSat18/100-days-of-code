@@ -196,3 +196,14 @@
 - You can set the default page for the web app by defining an action in the application controller script, and then referring to that controller action in the routes script
 
 **Tomorrow:** Finish app and deploy to Heroku
+
+-------------------------------
+### Day 15: August 15, 2017
+
+**Today's Progress**: deployed a hello app to Heroku
+
+**Thoughts:** this was tricky because of git - the Hartl's tutorial required me to set up a repo via the command line rather than simply cloning one from github. I messed up and had to do it again, because Hartl's instructions weren't quite right. Luckily there is a [youtube video](https://www.youtube.com/watch?v=T9h8Yl5bhJE&index=2&t=194s&list=PLunaYManlK3shgk_9iz_RQTa8J0kpeR-h) that has accurate step by step instructions. 
+
+**Learnings:** once I have given github my public SSH key, I can set up a repo locally and send it to github
+
+**Tomorrow:** find out how (eg tutorial) to put my app online.
