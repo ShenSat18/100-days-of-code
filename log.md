@@ -207,3 +207,16 @@
 **Learnings:** once I have given github my public SSH key, I can set up a repo locally and send it to github
 
 **Tomorrow:** find out how (eg tutorial) to put my app online.
+
+-------------------------------
+### Day 16: August 16, 2017
+
+**Today's Progress**: Manipulated my rails hello_app_v2 to redirect to urls defined by me
+
+**Thoughts:** Using the controller script in a rails app, I can state which url the app should go to. This bodes well for my pixelart twitter app, but making whole rails app for a static app seems like overkill. Could there be another, simple way to build an app from the ground up?
+
+**Learnings:**
+- I can put secret data (like private keys) directly into Heroku and acces them from script using ENV['YOUR_KEY']
+- I can put script within a controller method (that a route points to) that will automatically be run on launching the app
+
+**Tomorrow:** see if I can run scripts via Heroku without having to use rails
