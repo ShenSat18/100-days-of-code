@@ -220,3 +220,25 @@
 - I can put script within a controller method (that a route points to) that will automatically be run on launching the app
 
 **Tomorrow:** see if I can run scripts via Heroku without having to use rails
+
+-------------------------------
+### Day 17: August 17, 2017
+
+**Today's Progress**: learnt about the Sinatra gem
+
+**Thoughts:** Didn't do my full hour. Annoyed as I had all day!
+
+**Learnings:** Sinatra gem takes a request to go to the root url and does an action that you specify. Super handy for my app!
+
+**Tomorrow:** Try out Sinatra gem
+
+-------------------------------
+### Day 18: August 18, 2017
+
+**Today's Progress**: used the Sinatra gem to display twitter images from my app
+
+**Thoughts:** Didn't work again as hard as I woul've liked. Plain bad organisation. I really need to do my hour of coding as early as possible.
+
+**Learnings:** Sinatra gem is great, but I'm only redirecting to the pixelart image url at the mo - I can't put in any extra text.
+
+**Tomorrow:** Find out how to simply insert pixelart image as an html image rather than directing user to the image url.
