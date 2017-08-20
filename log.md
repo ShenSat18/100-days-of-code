@@ -242,3 +242,31 @@
 **Learnings:** Sinatra gem is great, but I'm only redirecting to the pixelart image url at the mo - I can't put in any extra text.
 
 **Tomorrow:** Find out how to simply insert pixelart image as an html image rather than directing user to the image url.
+
+-------------------------------
+### Day 19: August 19, 2017
+
+**Today's Progress**: learnt about the erb gem
+
+**Thoughts:** I found out about this gem using this amazing site, [ruby monstas](http://webapps-for-beginners.rubymonstas.org/erb.html). More amazing free content. I should look into this site a bit deeper, it's written perfectly: it breaks down code line by line with explanations. My twitter code also didn't work for a bit which meant I had to re-learn the Twitter API - I need to make reference notes to come back to.
+
+**Learnings:** 
+- You can embed Ruby code (for example, a variable that stores the url for a pixelart image) into html code.
+- I need to make ref notes for key learnings
+
+**Tomorrow:** Combine Sinatra and erb gems to realise twitter app
+
+-------------------------------
+### Day 20: August 20, 2017
+
+**Today's Progress**: rendered a page in html that displays the most popular pixelart image in last 24 hours
+
+**Thoughts:** Great progress (decided to work in a coffee shop, sooo much more productive than working at home). I tested basic bits of code before combining them for my app: great for making sure there are no bugs. I should do this more often.
+
+**Learnings:**
+- testing tiny bits of code seperately and methodically saves lots of headache later on
+
+**Tomorrow:**
+- start making ref notes
+- display other info (like fave count) alongside pixelart image
+- use heroku tutorial to create gem files, procfiles etc to run app locally (using command 'heroku local')
