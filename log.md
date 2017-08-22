@@ -270,3 +270,18 @@
 - start making ref notes
 - display other info (like fave count) alongside pixelart image
 - use heroku tutorial to create gem files, procfiles etc to run app locally (using command 'heroku local')
+
+-------------------------------
+### Day 21-22: August 21-22, 2017
+
+**Progress**: I've pretty much finished the app! 
+
+**Thoughts:** I've completed the html code and ruby code and combined it so that my app works fine locally. When I upload it to Heroku however, it seems like it does,'t return an up-to-date fave count. Quite annoyed about this -- I can see why devs go on about bugs so much!
+
+**Learnings:**
+- [Heroku's tutorial to deploy a ruby app](https://devcenter.heroku.com/articles/getting-started-with-ruby-o#write-your-app) involves uploading code to their own github (and not my github)
+- to run an app on Heroku, you need to change port from a number (eg 5000) to $PORT
+- code doesn't seem to be run everytime from app launch (hence why fave count does not change)
+
+**Tomorrow:**
+- fix the bug--why isn't fave count refreshing as it should?
