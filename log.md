@@ -285,3 +285,20 @@
 
 **Tomorrow:**
 - fix the bug--why isn't fave count refreshing as it should?
+
+-------------------------------
+### Day 23: August 23, 2017
+
+**Today's Progress**: Fixed the bug!
+
+**Thoughts:** Had to go back through the code line-by-line. Putting in 'puts' statements was really useful! Helped me identify which parts of my code were being run only once.
+
+**Learnings:**
+- I can't really use methods in Ruby on their own. They have to be attached to an object -- so a class of that object has to be made. Once I've made a class (eg Xmen), and then make the method (eg def claws) withn the class. I can then make an instance of that class (an object eg wolvie = Xmen.new) and I can then access an variables within the method by calling it by using object.method (eg wolvie.claws)
+- only the last line of a method will be returned, so if you want a method to return a certain variable, list it at the end
+- sinatra will run a page and then "listens" for a refresh. So if you want to run code on refresh, you have to call it within the sinatra piece of code 
+
+**Tomorrow:**
+- I need to re-learn methods, classes and variables so go back and do relevant codecademy chapter
+- deploy to heroku local, then heroku final
+
