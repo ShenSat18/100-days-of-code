@@ -302,3 +302,17 @@
 - I need to re-learn methods, classes and variables so go back and do relevant codecademy chapter
 - deploy to heroku local, then heroku final
 
+
+-------------------------------
+### Day 24: August 24, 2017
+
+**Today's Progress**: Tidied up code, re-learnt classes and different types of methods and variables
+
+**Thoughts:** My code works, so I'm happy not to re-factor it for now. But re-learning about classes, methods and variables means I could make the code cleaner. At the moment the code is one long chunk, but it could be split up into different methods. I think this would be useful if I had a more complex app that needed multiple instances (objects) that needed to be treated differently. As it stands,I only need to create on object for my app, so one long chunk of code is enough.
+
+**Learnings:**
+- creating objects are a way to run code in ruby. Once you have set up the class and its methods containing the code you want to run, then simply create an object and call the method to run the code.
+
+**Tomorrow:**
+- Deploy to Heroku finally
+- Flash cards
