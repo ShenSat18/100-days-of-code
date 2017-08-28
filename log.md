@@ -316,3 +316,21 @@
 **Tomorrow:**
 - Deploy to Heroku finally
 - Flash cards
+
+-------------------------------
+### Day 25-27: August 25-27, 2017
+
+**Progress**: Deployed to Heroku! Learnt about coding games in Ruby
+
+**Thoughts:** Finally finished my app! Feels really good, BUT I'm so hungry for my next challenge. I want to do something that I'm personally going to sue (like my Twitter app). I need to decide quickly so I can get on with it. The last two days have involved very sparse work - I've been in the countryside for a friend's bday, and I've learnt that I'm not comfortable asking for 1 hour to do my coding with people I don't know that well. I need to line up good reading materialfor situations like this. 
+
+**Learnings:**
+- I can't take my laptop on holidays with friends I don't know well
+- Any class I create in RPG maker will inherit from classes that come pre-defined with the program. i learnt this from a [tutorial](https://forums.rpgmakerweb.com/index.php?threads/slip-into-ruby-an-introductory-guide-to-rgss-for-beginners.38900/) I found
+
+**Link to work:** [My final twitter app](https://twitter-app-final.herokuapp.com/)
+
+**Tomorrow:**
+- flash cards
+- Ruby book for when I'm on the move/on holiday
+- next project
