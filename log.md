@@ -334,3 +334,16 @@
 - flash cards
 - Ruby book for when I'm on the move/on holiday
 - next project
+
+# 100 Days Of Code - Log
+
+-------------------------------
+### Day 28: August 28, 2017
+
+**Today's Progress**: decided RPG maker is no good, read about Gosu gem
+
+**Thoughts:** RPG Maker is not tinkerer-friendly. Gosu on the other hand looks promising, if tough - games are built purely from scratch. There could be a way to contribute code to the Gosu gem because it is so new.
+
+**Learnings:** Gosu is agem for making games from scratch
+
+**Tomorrow:** Build a simple game using Gosu
