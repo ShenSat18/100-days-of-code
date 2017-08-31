@@ -347,3 +347,18 @@
 **Learnings:** Gosu is agem for making games from scratch
 
 **Tomorrow:** Build a simple game using Gosu
+
+-------------------------------
+### Day 29-30: August 29-30, 2017
+
+**Progress**: Created a scene and movable character
+
+**Thoughts:** The Gosu tutorial has helped me a lot. Especially the code for animation (Gosu.milliseconds / seconds_per_frame_needed % @animate_sheet.size). It took me ages to get my head around how it works, but once I realised Ruby does integer division, it all started to make sense.
+
+**Learnings:** (Gosu.milliseconds / seconds_per_frame_needed % @animate_sheet.size) is a great way to animate from an array
+
+**Link to work:** ![Alt text](https://media.giphy.com/media/l378gQP1EFNRzOufC/giphy.gif)
+
+**Tomorrow:**
+- put (Gosu.milliseconds / seconds_per_frame_needed % @animate_sheet.size) into Google Keep
+- make player jump
