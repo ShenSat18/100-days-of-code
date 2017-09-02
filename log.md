@@ -362,3 +362,16 @@
 **Tomorrow:**
 - put (Gosu.milliseconds / seconds_per_frame_needed % @animate_sheet.size) into Google Keep
 - make player jump
+
+-------------------------------
+### Day 31-32: August X, 2017
+
+**Progress**: Made player jump
+
+**Thoughts:** This involved a lot of maths, but I'm having lots of fun doing it because it relates to video games. Thinking in video game terms is so much fun.
+
+**Learnings:** If you create a method that accepts an argument, eg def example(n), then you can't call that method without putting in an argument. (See Google Keep for an explanation).
+
+**Tomorrow:**
+- Mmke  a Google Keep note for the above learning
+- add jump animation
