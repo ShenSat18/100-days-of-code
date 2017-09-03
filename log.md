@@ -375,3 +375,19 @@
 **Tomorrow:**
 - Mmke  a Google Keep note for the above learning
 - add jump animation
+
+-------------------------------
+### Day 33-34: August X, 2017
+
+**Progress**: I can edit and import tilesets into my game using the map editor Tiled
+
+**Thoughts:** It didn't work at first and for the first time the error code pointed to the gem I was using (gosu_tiled) instead of my own code. Using a bit of logic and trial & error, I was able to locate the problem and create maps in a way that satisfied gosu_tiled. I think I would like amend the gosu_tiled documentation at somepoint to reflect what I've learnt.
+
+**Learnings:**
+- images need to be imported as 'tilesets' and embedded in Tiled in order for gosu_tiled to recognise them
+- images can be put into onbject or tileset layers and gosu_tiled will pick them up
+
+**Tomorrow:**
+- create a level using tilesets and run it
+- work out how to import colliders
+- write a rough draft for submitting to gosu_tiled's README for what you learnt today
