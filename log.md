@@ -2,7 +2,7 @@
 # 100 Days Of Code - Log
 
 -------------------------------
-### Day X: August X, 2017
+### Day X: September X, 2017
 
 **Today's Progress**: 
 
@@ -364,7 +364,7 @@
 - make player jump
 
 -------------------------------
-### Day 31-32: August X, 2017
+### Day 31-32: August 31-1, 2017
 
 **Progress**: Made player jump
 
@@ -377,7 +377,7 @@
 - add jump animation
 
 -------------------------------
-### Day 33-34: August X, 2017
+### Day 33-34: September 2-3, 2017
 
 **Progress**: I can edit and import tilesets into my game using the map editor Tiled
 
@@ -391,3 +391,19 @@
 - create a level using tilesets and run it
 - work out how to import colliders
 - write a rough draft for submitting to gosu_tiled's README for what you learnt today
+
+-------------------------------
+### Day 35-42: September 4-11, 2017
+
+Progress**: Made the beginnings of a platformer
+
+**Thoughts:** I spent waaaaay too much time on this! It was great at first and I've learnt tonnes, especially around using arrays and hases and classes, mthods and variables. But by the end, I was dipping into too much maths and not enough code. If it gets like this in future, I don't need to quit, but I need to scale down my idea.
+
+**Learnings:**
+- classes, methods and variables are great ways of organising code
+- arrays and hashes are great ways of extracting information at for a given program state/moment in time
+- if I spend more than 3 days on a problem, time to scale down! 
+
+**Tomorrow:**
+- work on idea for new game
+- draw a rough map first and move a square around within boundaries
