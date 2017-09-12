@@ -407,3 +407,18 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - work on idea for new game
 - draw a rough map first and move a square around within boundaries
+
+-------------------------------
+### Day 43: September 12, 2017
+
+**Today's Progress**: made a orthograpghi-game mockup
+
+**Thoughts:** Seting up is quite simple because this is my third time. I'm also learning to take a break when it gets intense!
+
+**Learnings:**
+- Gosu.distance is another way to work out colliding states
+
+**Tomorrow:**
+- look through Gosu methods to see if there is anything that can help work out collision
+- bound character by colliders
+- look up FCC
