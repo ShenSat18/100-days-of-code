@@ -422,3 +422,16 @@ Progress**: Made the beginnings of a platformer
 - look through Gosu methods to see if there is anything that can help work out collision
 - bound character by colliders
 - look up FCC
+
+-------------------------------
+### Day 44: September 13, 2017
+
+**Today's Progress**: Accessed new data within json Tiled file using hashes, arrays and loops 
+
+**Thoughts:** I can't figure out an intuitive way to use rectangle colliders, so I'm figuring out how to use and import line colliders. This means using lots of arrays and hashes which is welcome practice. 
+
+**Learnings:** .each_with_index |object, index| allows you to access an object in an array and its index number
+
+**Tomorrow:**
+- finish colliders
+- look at FCC
