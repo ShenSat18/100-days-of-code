@@ -435,3 +435,18 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - finish colliders
 - look at FCC
+
+-------------------------------
+### Days 45-48: September 14-17, 2017
+
+**Progress**: Colliders are now working
+
+**Thoughts:** Colliders involve a lot of logic work, but even though it can be frustrating, it's also a lot of fun. I'm excited to build the next feature of the game.
+
+**Learnings:** In an OR statement, if the first part is satisfied, the second part is not considered. For eg: in the statement 'if x = 3 || x = 4', if x equals 3, then the 'x = 4' part of the statement will not be run. To check for both parts, you'd have to use two seperate 'if' statements, one for each. 
+
+**Link to work:** ![Alt text](https://media.giphy.com/media/3ohhwhpioio4kAoF9K/giphy.gif)
+
+**Tomorrow:**
+- level design
+- FCC
