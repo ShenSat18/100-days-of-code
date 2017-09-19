@@ -465,3 +465,19 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - enemies!
 - ask at Ruby Hacknight for FCC equivalent for Ruby
+
+-------------------------------
+### Day 50: September 19, 2017
+
+**Today's Progress**: re-factored some code, started on enemy code. Also made a branch on Github.
+
+**Thoughts:** I went to my first ruby hacknight! Mixed emotions: some devs don't know how to teach and are not that friendly, where as others have lots of potential to be great teachers/ruby-homies. I've started making changes to my game based on learnings from meetup, but boundaries arent working anymore.
+
+**Learnings:**
+- My code can be split into separate files and called from the main file using require_relative 'filename'
+- I can make branches to make changes and pull them into main branch when I'm happy
+- Ctrl X to cut (LOL)
+
+**Tomorrow:**
+- move code for detecting colliders into 'world' code as suggested by Pedro
+- finish enemy code
