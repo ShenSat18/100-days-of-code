@@ -450,3 +450,18 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - level design
 - FCC
+
+-------------------------------
+### Day 49: September 18, 2017
+
+**Today's Progress**: created characters (mages) to interact with
+
+**Thoughts:** This game is starting to look really cool! For the mage characters, I first had them sit within the Player class and it worked fine. But then thinking about it, it made sense to seprate these, so that the code would be easier to read. I therefore made a separate Mages class which works just as well.
+
+**Learnings:** attr_reader is a great way for classes to talk to each other. The Mage class needs to know where the player is at all times, so I made the player's coordinates accessible to Game_Window class (via attr_reader) which then passes them to the Mage class 
+
+**Link to work:**
+
+**Tomorrow:**
+- enemies!
+- ask at Ruby Hacknight for FCC equivalent for Ruby
