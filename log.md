@@ -493,8 +493,6 @@ Progress**: Made the beginnings of a platformer
 - to change the upstream remote branch of your local branch, first use 'git fetch' then use: 'git branch --set-upstream-to origin/cyclops' (cyclops here is the remote branch name)
 - if your local branch name does not match the remote branch name then git will warn you and give you instructions on what the avilable options are
 
-**Link to work:**
-
 **Tomorrow:**
 - sort out github so I have the master branch and then the hacknight branch
 -enemy code
