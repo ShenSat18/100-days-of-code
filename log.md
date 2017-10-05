@@ -496,3 +496,22 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - sort out github so I have the master branch and then the hacknight branch
 -enemy code
+
+-------------------------------
+### Day 52-65: September 21 - October 4, 2017
+
+**Progress**: I've finished my game! I've also started reading about object-oriented design (OOD). I've also reached out to a couple of coders for potential collabs.
+
+**Thoughts:** It's taken me much, much longer than I expected, but the learnings have been worth it. I want to share what I've learnt, but not sure how. I'll reach out to see if any sharing possibilities are out there. I also feel confident I can use OOD in future to organise the messy but functional code I've written.
+
+**Learnings:**
+- I can scale my projects back a lot more
+- seperating code into different files helps when navigating code and organising its structure
+- hashes and arrays can be used to break into other programs and extract and organise info
+- it's best to have local folders match remote counterparts for git control
+
+**Link to work:** ![Alt text](https://media.giphy.com/media/3o7aD0A6aPBt3IQZva/giphy.gif)
+
+**Tomorrow:**
+- initiate opportunities to share learnings
+- reach out to collabs, initiate collabs
