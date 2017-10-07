@@ -2,7 +2,7 @@
 # 100 Days Of Code - Log
 
 -------------------------------
-### Day X: September X, 2017
+### Day X: October X, 2017
 
 **Today's Progress**: 
 
@@ -515,3 +515,18 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - initiate opportunities to share learnings
 - reach out to collabs, initiate collabs
+
+-------------------------------
+### Days 66-68: October 5-7, 2017
+
+**Today's Progress**: Arranged code into OO classes. Made contact with my collaborators.
+
+**Thoughts:** I have forgotten some things about the Twitter API. Using arrays is not as intuitive as I remembered!
+
+**Learnings:**
+- Twitter::SearchResults (ie the result I get when I call 'client.search') is not an array. I think it's an enumerable. I can convert it to an array by calling .to_a on it. 
+
+**Tomorrow:**
+- post game to any gosu forums
+- work on options hash
+- put above learning into a ref card
