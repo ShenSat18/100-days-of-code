@@ -530,3 +530,14 @@ Progress**: Made the beginnings of a platformer
 - post game to any gosu forums
 - work on options hash
 - put above learning into a ref card
+
+-------------------------------
+### Days 69-71: October 8-10, 2017
+
+**Today's Progress**: Worked out bug in partner's code. Researched sharing access Rwitter tokens/keys 
+
+**Thoughts:** Slow day today. Felt like I haven't made much progress.
+
+**Learnings:** There is no way to share tokens with partners in code and hide it from them at the same time. To work with a coder, they will either see and use your tokens, or they need to create their own.
+
+**Tomorrow:** Same as previous post
