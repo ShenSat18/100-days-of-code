@@ -541,3 +541,18 @@ Progress**: Made the beginnings of a platformer
 **Learnings:** There is no way to share tokens with partners in code and hide it from them at the same time. To work with a coder, they will either see and use your tokens, or they need to create their own.
 
 **Tomorrow:** Same as previous post
+
+-------------------------------
+### Day 72-73: October 11-12, 2017
+
+**Today's Progress**: finished code for a potential collab project with @NE_Developer - it returns the most popular tweets to do with web development. Also looked at Tumblr API and re-looked at Twitter API.
+
+**Thoughts:** I've arranged the web dev code as object-oriented as possible, but I think time will tell whether it is future-proof. I'm quite happy that the classes called in the code can, save for the SortResults function, be called in any order. Each class also changes the original array of tweets.
+
+**Learnings:**
+- Twitter API does not hold on to gif urls
+- .collect! amends an original array, and can add/replace elements into an array
+
+**Tomorrow:**
+- start a roadmap (ruby on rails, Chrome extension etc)
+- start ruby on rails
