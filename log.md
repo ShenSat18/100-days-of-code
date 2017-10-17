@@ -556,3 +556,17 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - start a roadmap (ruby on rails, Chrome extension etc)
 - start ruby on rails
+
+-------------------------------
+### Days 74-78: October 13-17, 2017
+
+**Today's Progress**: Learning Rails (via Hartl) and JS (via Codecademy)
+
+**Thoughts:** Javascript is fairly easy so far - it's not as elegant as ruby but I'm not really worried about it. Rails is very slow going. And I'm having to use 'technical sophistaication' very early on to solve issues. I'm currently stuck on a problem - toy app wasn't working on local web server or heroku. Got it to work on local eventually (see below) but heroku issue still remains. I can't access Heroku logs for the app (crappy Tesco wifi) so will try and solve this tomorrow.
+
+**Learnings:**
+- remove '//= require_tree .' in the application.js file found APP_DIRECTORY\app\assets\javascripts [soultion here](https://stackoverflow.com/questions/12520456/execjsruntimeerror-on-windows-trying-to-follow-rubytutorial)
+
+**Tomorrow:**
+- view Heroku logs to see why app isn't working on Heroku
+- remember the fix above has been uploaded to Heroku - you may need to reverse it to try it out from scratch.
