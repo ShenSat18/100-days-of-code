@@ -570,3 +570,16 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - view Heroku logs to see why app isn't working on Heroku
 - remember the fix above has been uploaded to Heroku - you may need to reverse it to try it out from scratch.
+
+-------------------------------
+### Day 79-80: October 18-19, 2017
+
+**Progress**: More Javascript and Rails work. Fixed the Heroku error! Also met with someone, to start a game!  
+
+**Thoughts:** I fixed the werror simply by reading further down the page (lol). The Rails tutorial isn't perfect in terms of the way it flows: it seems to jump to deployment for example, before explaining how to migrate a new database to Heroku.
+
+**Learnings:** When deloying to Heroku make sure to deploy any databases using 'heroku run rails db:migrate'
+
+**Tomorrow:**
+- carry on with JS and Rails
+- look into GameMaker
