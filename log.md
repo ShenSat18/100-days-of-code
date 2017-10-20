@@ -583,3 +583,14 @@ Progress**: Made the beginnings of a platformer
 **Tomorrow:**
 - carry on with JS and Rails
 - look into GameMaker
+
+-------------------------------
+### Day 81: October 20, 2017
+
+**Today's Progress**: Did some Rails. Toy app now throws up errors if certain fields are blank
+
+**Thoughts:** I'm finding learning Rails really boring. No project makes it hard, but the way it's taught is also a bit bleurgh. I may give up and concentrate solely on Javascript.
+
+**Learnings:** In Rails, '@user = User.find(params[:id])' finds the user associated with id number stated in the url. You can then use this to access other data associated with this user (eg @user.microposts.first returns the user's first post).
+
+**Tomorrow:** Carry on Rails. Do JS. Give Rails one more chance to 'get you'
