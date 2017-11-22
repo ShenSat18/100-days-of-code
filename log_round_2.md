@@ -27,7 +27,7 @@
 -------------------------------
 ### Day 2: November 22, 2017
 
-**Today's Progress**: finished fizzbuzz
+**Today's Progress**: finished fizzbuzz functionality
 
 **Thoughts:** writing tests led me to write the code for the program in a way I wouldn't have otherwise, because of the order/structure of my tests. It's not very read-able but it does work!
 
