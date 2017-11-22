@@ -36,6 +36,6 @@
 - learnt about require and require_relative (made a note on Google Keep)
 
 **Tomorrow:**
-- look at: https://blog.makersacademy.com/an-introduction-to-tdd-in-ruby-72f0a8536509 and:
+- look at [Makers academy blog](https://blog.makersacademy.com/an-introduction-to-tdd-in-ruby-72f0a8536509) and:
   - refactor your code according to the red-green-refactor principle
   - do the last challenge at the end
