@@ -39,3 +39,14 @@
 - look at [Makers academy blog](https://blog.makersacademy.com/an-introduction-to-tdd-in-ruby-72f0a8536509) and:
   - refactor your code according to the red-green-refactor principle
   - do the last challenge at the end
+  
+  -------------------------------
+### Day 3: November 23, 2017
+
+**Today's Progress**: solved some of the game engine maths for Algebra Jungle 
+
+**Thoughts:** Didn't get get nearly as much coding as I wanted to get done. Mostly maths logic for 'balance' in game. Frustrating, but even Steven couldn't solve the problem at the heart of the balance mechanic.
+
+**Learnings:** Not much learning unfortunately, except take more breaks when thinking about a problem.
+
+**Tomorrow:** see Day 2 entry.
