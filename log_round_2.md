@@ -56,7 +56,7 @@
 
 **Progress**: Completed Makers challenge on TDD. Read about Chrome extensions
 
-**Thoughts:** The Makers academy challenge was surprisingly straight forward. It was fun messing around with Ruby's built-in classes. Chrome extensions on the other hand are a bit more complicated. I feel like I need more basic HTML/CSS/JS knowledge before jumping into the chrome extension, because at the moment, I can't read the examples given by (Google Developers' guides)[https://youtu.be/e3McMaHvlBY?list=PLCA101D6A85FE9D4B]. Freecodecamp might be a way through this, ie to develop my front-end knowledge
+**Thoughts:** The Makers academy challenge was surprisingly straight forward. It was fun messing around with Ruby's built-in classes. Chrome extensions on the other hand are a bit more complicated. I feel like I need more basic HTML/CSS/JS knowledge before jumping into the chrome extension, because at the moment, I can't read the examples given by [Google Developers' guides](https://youtu.be/e3McMaHvlBY?list=PLCA101D6A85FE9D4B). Freecodecamp might be a way through this, ie to develop my front-end knowledge
 
 **Learnings:**
 - Stating an in-built class in Ruby and then defining a new method inside it will mena you can call that method on any object of that class.
