@@ -63,3 +63,16 @@
 - Chrom extensions use a mixture of HTML/CSS/JS
 
 **Tomorrow:** work through Freecodecamp
+
+-------------------------------
+### Day 12: December 2, 2017
+
+**Today's Progress**: Learnt more about HTML and CSS
+
+**Thoughts:** Doing Freecodecamp is really nice, but I still feel like I need a project. Maybe at the end I should aim for some sort of portfolio page?
+
+**Learnings:** HTML has two layout concepts called element, margin and padding. Element is a chunk of content - each will have its own border. Margin is the space between different elements (eg if a box (element) sits within another box (another element), the margin is the space bewteen the former's border and the latter's border). Padding is the space between the element and its own border (eg a text box with lots of padding will have a lot of space between its text (element) and its box border). 
+
+**Tomorrow:** 
+- Do some more Freecodecamp - work out a project
+- Look at user input for TDD
