@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 -------------------------------
-### Day X: November X, 2017
+### Day X: December X, 2017
 
 **Today's Progress**: 
 
@@ -76,3 +76,18 @@
 **Tomorrow:** 
 - Do some more Freecodecamp - work out a project
 - Look at user input for TDD
+
+-------------------------------
+### Day 13: December 3, 2017
+
+**Today's Progress**: Learnt about Bootstrap
+
+**Thoughts:** Finally understand what people mean by Bootstrp. I'm a bit ill today, so only did around 45-50 mins rather than full hour.
+
+**Learnings:**
+- Bootsrap is a like a library of premade CSS classes that you can add to elements
+- some of Bootsrap classes have to be added to div sections that house each element you want to apply Bootsrap to. For eg, if you want adjust relative size of an button by using the 'col-xs-4' class, the button needs to be within a div section, and the class 'col-xs-4' is applied to the div. Otherwise, othert classes like 'btn-primary' can be applied to the <button> element itself  
+
+**Tomorrow:**
+- carry on with Freecodecamp
+- look at user input for TDD
