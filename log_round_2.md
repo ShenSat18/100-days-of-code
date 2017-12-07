@@ -114,7 +114,8 @@ Progress**: Worked out that I definitely need help thinking about TDD and user i
 **Thoughts:** making my first (tutorial) chrome extension was quite easy, but manipulating it further was quite difficult. 
 
 **Learnings:**
-- Looking at the elements that make up a Google homepage, I was able to change the background image image by adding this "style" to the <body>: "background-image: url(https://assets.pokemon.com/assets//cms2/img/video-games/_tiles/pgl/johto-x-alola/pgl-johto-x-alola-strategy-169-en.jpg)"
+- Looking at the elements that make up a Google homepage, I was able to change the background image image by adding this "style" to the body part of the HTML code:
+<body style="background: rgb(0, 255, 255); background-image: url(https://assets.pokemon.com/assets//cms2/img/video-games/_tiles/pgl/johto-x-alola/pgl-johto-x-alola-strategy-169-en.jpg);" ETC
 
 **Tomorrow:**
 - see if I can make a [content script](https://developer.chrome.com/extensions/content_scripts#pi) that changes background image 
