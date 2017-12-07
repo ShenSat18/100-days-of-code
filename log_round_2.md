@@ -91,3 +91,17 @@
 **Tomorrow:**
 - carry on with Freecodecamp
 - look at user input for TDD
+
+-------------------------------
+### Day 14-16: December 4-6, 2017
+
+Progress**: Worked out that I definitely need help thinking about TDD and user input. Also read a solution to the Mars Rover challenge
+
+**Thoughts:** It's nice knowing I can reach out to someone to help me code. Its especially nice knowing I have tried my best to solve it myself but recognise I need help.
+
+**Learnings:**
+- a ||= b is another way of say a = a || a = b. Eg '@variable ||= nil' is another way of saying if the @variable has been assigned a value then it equals itself, otherwise it is equal to nil
+- % number is a great way to cycle through the indices of an array. Eg: if you have 3 objects in an array, then using something like '(index + 1) % 3' will cycle through them (first it will be 1 % 3 which equals 1, then 2 % 3 = 2, then 3 % 3 = 0, then 4 % 3 = 1 again. So you can cycle through the indices 1, 2, 0 forever. 
+
+**Tomorrow:**
+- work on a new project
