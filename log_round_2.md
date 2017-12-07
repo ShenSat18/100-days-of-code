@@ -105,3 +105,16 @@ Progress**: Worked out that I definitely need help thinking about TDD and user i
 
 **Tomorrow:**
 - work on a new project
+
+-------------------------------
+### Day 17: December 7, 2017
+
+**Today's Progress**: made a chrome extension
+
+**Thoughts:** making my first (tutorial) chrome extension was quite easy, but manipulating it further was quite difficult. 
+
+**Learnings:**
+- Looking at the elements that make up a Google homepage, I was able to change the background image image by adding this "style" to the <body>: "background-image: url(https://assets.pokemon.com/assets//cms2/img/video-games/_tiles/pgl/johto-x-alola/pgl-johto-x-alola-strategy-169-en.jpg)"
+
+**Tomorrow:**
+- see if I can make a [content script](https://developer.chrome.com/extensions/content_scripts#pi) that changes background image 
