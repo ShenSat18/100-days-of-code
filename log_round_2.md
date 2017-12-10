@@ -118,4 +118,17 @@ Progress**: Worked out that I definitely need help thinking about TDD and user i
 style="background: rgb(0, 255, 255); background-image: url(https://assets.pokemon.com/assets//cms2/img/video-games/_tiles/pgl/johto-x-alola/pgl-johto-x-alola-strategy-169-en.jpg);" ETC
 
 **Tomorrow:**
-- see if I can make a [content script](https://developer.chrome.com/extensions/content_scripts#pi) that changes background image 
+- see if I can make a [content script](https://developer.chrome.com/extensions/content_scripts#pi) that changes background image
+
+-------------------------------
+### Day 18-20: December 8-10, 2017
+
+**Progress**: Learnt a bit about Builder pattern and exception handling in Ruby
+
+**Thoughts:** I don't have a project to apply Builder pattern to, so it still feels abstract. However, I can apply exception handling to Mars Rover tomorrow, so should hopefully have a good grasp of it soon!
+
+**Learnings:**
+- Builder patterns are used to seperate the construction of an object from the actual object itself. For example, if I create Computer.new, I don't want to have to specify in it's inititialization to include a CPU, a mouse etc. I want the code in the Computer class to only contain code for it's behaviour, not what components it has. Therefore, I use a ComputerBuilder class to specify componenets, and then I can use the Compueter class to define behaviour.
+- Exception handling: 'begin' holds the code to run. If the code produces an error,it will usually terminate the script. But 'rescue' contains code to handle the error; eg it can puts an error message, and rerun the script. 'Else' executes if there is no error, and 'ensure' runs code regardless of if there is an error or not. Exception handling is used for a part of the code that is likely to have a varied input (and therefore likely to raise an error) eg user input fields.
+
+**Tomorrow:** Use error handling to create user input part of mars rover app.
