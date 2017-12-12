@@ -132,3 +132,14 @@ style="background: rgb(0, 255, 255); background-image: url(https://assets.pokemo
 - Exception handling: 'begin' holds the code to run. If the code produces an error,it will usually terminate the script. But 'rescue' contains code to handle the error; eg it can puts an error message, and rerun the script. 'Else' executes if there is no error, and 'ensure' runs code regardless of if there is an error or not. Exception handling is used for a part of the code that is likely to have a varied input (and therefore likely to raise an error) eg user input fields.
 
 **Tomorrow:** Use error handling to create user input part of mars rover app. [Use bastards book of ruby](http://ruby.bastardsbook.com/chapters/exception-handling/), it's a good well-explained guide.
+
+-------------------------------
+### Day 21: December 11, 2017
+
+**Today's Progress**: Wrote the beginnings of my user interface for mars rover tech test
+
+**Thoughts:** Getting the 'flow' down for user input is quite simple.
+
+**Learnings:** attr_accessor can be used without having to initialize/state any instance variables. A class with only 'attr_accessor :foo' will work, meaningyou can read and write the variable foo. 
+
+**Tomorrow:** write error handling for user input
