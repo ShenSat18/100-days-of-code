@@ -155,5 +155,6 @@ Progress**: learnt about Regex and Modules
 - Regex are great way to validate user input: you use a whole library of symbols to looks for 'patterns' in the input, which, importantly, has to be a string. An amazing resource to test out Regex code is here: https://regexr.com
 - Modules are like libraries that contain methods or variables you want to use across classes. Again, this will be more pertinent for large applications. A good explanantion is [here using the instruction 'include'](http://ruby-for-beginners.rubymonstas.org/advanced/modules.html)
 - if you use a module, make sure you require it (if it is a different file) or state it above the classes you want to use it in (if it is in the same file)!
+- '..' refers to the parent directory of you are in, whereas '.' refers to the directory you are in. So typing ../.. refers to the parent dir of the parent dir of the dir you are in :)
 
 **Tomorrow:**
