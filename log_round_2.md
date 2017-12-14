@@ -143,3 +143,18 @@ style="background: rgb(0, 255, 255); background-image: url(https://assets.pokemo
 **Learnings:** attr_accessor can be used without having to initialize/state any instance variables. A class with only 'attr_accessor :foo' will work, meaningyou can read and write the variable foo. 
 
 **Tomorrow:** write error handling for user input
+
+-------------------------------
+### Day 22-24: December 12-14, 2017
+
+Progress**: learnt about Regex and Modules
+
+**Thoughts:** Regex is the ugliest (aesthetically speaking) part of coding ever, but it is easy-ish to pick up. I kind of understand Moules, but I have a feeling I'll only start using them/understanding them fully once I build a big application.
+
+**Learnings:**
+- Regex are great way to validate user input: you use a whole library of symbols to looks for 'patterns' in the input, which, importantly, has to be a string. An amazing resource to test out Regex code is here: https://regexr.com
+- Modules are like libraries that contain methods or variables you want to use across classes. Again, this will be more pertinent for large applications. A good explanantion is [here using the instruction 'include':](http://ruby-for-beginners.rubymonstas.org/advanced/modules.html) 
+
+**Link to work:**
+
+**Tomorrow:**
