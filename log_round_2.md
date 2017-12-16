@@ -157,4 +157,13 @@ Progress**: learnt about Regex and Modules
 - if you use a module, make sure you require it (if it is a different file) or state it above the classes you want to use it in (if it is in the same file)!
 - '..' refers to the parent directory of you are in, whereas '.' refers to the directory you are in. So typing ../.. refers to the parent dir of the parent dir of the dir you are in :)
 
-**Tomorrow:**
+-------------------------------
+### Day 25: December 15, 2017
+
+**Today's Progress**: started using TDD with Regex
+
+**Thoughts:** I love TDD
+
+**Learnings:** no new learnings actually. More practice of what I've just learnt (symbols in Regex, let statements in TDD)
+
+**Tomorrow:** Finish UI for tech test using TDD/Regex
