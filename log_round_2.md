@@ -167,3 +167,14 @@ Progress**: learnt about Regex and Modules
 **Learnings:** no new learnings actually. More practice of what I've just learnt (symbols in Regex, let statements in TDD)
 
 **Tomorrow:** Finish UI for tech test using TDD/Regex
+
+-------------------------------
+### Day 26-36: December 16-26, 2017
+
+**Progress**: using Leetcode, preparing for Thoughtworks
+
+**Thoughts:** I've been using Leetcode as a way to plug time not spent on projects - it's great for that. I'm learning that I'm not great at the hard logic stuff, but once I know the logic, I can write the code more or less quite easily. My code won't be the most 'efficient' though, so still lots to learn! Also super nervous about my interview!
+
+**Learnings:** 'break' in code will exit that code block
+
+**Tomorrow:** Start working on TDD for interview
