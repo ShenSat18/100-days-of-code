@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 -------------------------------
-### Day X: December X, 2017
+### Day X: January X, 2018
 
 **Today's Progress**: 
 
@@ -178,3 +178,16 @@ Progress**: learnt about Regex and Modules
 **Learnings:** 'break' in code will exit that code block
 
 **Tomorrow:** Start working on TDD for interview
+
+-------------------------------
+### Days 37-42: December 27, 2017 - 01 January, 2018
+
+**Progress**: I've been making decent progress with my second attempt at TTD'ing my program. I can explain certain design decsions better now that I've done them twice. I'm also coming to grips with simulating user input (ie command-line commands) for TDD using Open3.
+
+**Thoughts:** I'm nervous about the next step as I remember it being the least TDD-like part of my program. But lets see how I go!
+
+**Learnings:**
+- 'return' will break from the code and return a value
+- stdin.puts will input data into a program that has gets.chomp, and to see if anything outputs to the command line from the program you use stdout.read
+
+**Tomorrow:** write the functional TDD test
