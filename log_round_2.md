@@ -191,3 +191,15 @@ Progress**: learnt about Regex and Modules
 - stdin.puts will input data into a program that has gets.chomp, and to see if anything outputs to the command line from the program you use stdout.read
 
 **Tomorrow:** write the functional TDD test
+
+-------------------------------
+### Days 43: 02 January, 2018
+
+**Progress**: Didn't write functional test, but started writing unit test for controller
+
+**Thoughts:** I think it's possible to write a unit test for the controller object AND THEN write a functional test for the overall app. Unit testing the controller will hopefully yield the correct methods which I can then shuffle around and use in 'loops' for the functional test (ie once I start using gets.chomp). 
+
+**Learnings:**
+- at the mo, input_check object holds on to variables like plateau_x, but it doesn't need to: it simply needs to pass this info to the next place where it is needed to be held. For that reason, it will be better to use 'return': eg, if I return an array with plateau x and plateau y in the input_check object, I can pass this info straight to the plateau object within my controller object. This may also make it easier to write unit tests to test this functionality.
+
+**Tomorrow:** re-write plateau test as above, and finish controller unit test
