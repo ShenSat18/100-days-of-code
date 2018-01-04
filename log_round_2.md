@@ -203,3 +203,14 @@ Progress**: learnt about Regex and Modules
 - at the mo, input_check object holds on to variables like plateau_x, but it doesn't need to: it simply needs to pass this info to the next place where it is needed to be held. For that reason, it will be better to use 'return': eg, if I return an array with plateau x and plateau y in the input_check object, I can pass this info straight to the plateau object within my controller object. This may also make it easier to write unit tests to test this functionality.
 
 **Tomorrow:** re-write plateau test as above, and finish controller unit test
+
+-------------------------------
+### Day 44: January 3, 2018
+
+**Today's Progress**: Finished all unit tests
+
+**Thoughts:** Writing unit tests for controller was a little tricky, as I wasn't sure if I had to go back and change outputs from other objects (ie should objects hold on to variables like plateau_x and plateau_y or should they return an array containing plateau_x and plateau_y). I've stuck with the former for the moment, because, thanks to TDD, I can change this at the end and fix using errors raised by my tests. The whole point of TDD :)
+
+**Learnings:** if all of a sudden, rspec outputs something like '0 tests and 0 failures' it means something is wrong with you rspec code (ie the test code) probably missing an 'end' or a 'do' etc.
+
+**Tomorrow:** Functional test
